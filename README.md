@@ -3,6 +3,7 @@ Football Analysis using NetworkX
 
 
 Let's consider the formation and relative disposition of the Genoa team on the pitch:
+
 (1,{"nome": "Perin"}), (55,{"nome": "Masiello"}),(21,{"nome": "Radovanovic"}),(4,{"nome": "Criscito"}),
 (99,{"nome": "Czyborra"}),(20,{"nome": " Strootman"}),(47,{"nome": " Badelj"}),(16,{"nome": "Zajic"}),
 (77,{"nome": "Zappacosta"}),(9,{"nome": "Scamacca"}),(23,{"nome": "Destro"})
