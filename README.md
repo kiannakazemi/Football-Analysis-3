@@ -21,6 +21,7 @@ For example (1,4,23.0) indicates that Perin has passed the ball 23 times to Cris
 I uesed NetworkX to create a direct graph where the nodes are the 11 players of the base formation, and the weighted arcs represent the number of passes between each two players.
 
 In this project I answered the following questions:
+
     - Find out the total number of passes efected and recieved by each player
     
     - Find the central players in the game
